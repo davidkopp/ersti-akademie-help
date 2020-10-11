@@ -1,0 +1,25 @@
+site_name: Erstsemesterakademie BaWü zukunftsfähig - Digitale Umsetzung
+site_url: https://help.ersti-akademie-bw.de
+nav:
+    - Start: index.md
+    - BigBlueButton:
+        Allgemeines: bbb.md
+        Verbindungsaufbau zur Konferenz: bbb-verbindung.md
+        Benutzungsoberfläche: bbb-benutzung.md
+    - Matrix:
+        Allgemeines: matrix.md
+        Registrierung & Anmeldung: matrix-registrierung.md
+        Wichtige Einstellungen: matrix-einstellungen.md
+        Unsere Community und Räume: matrix-community.md
+        Matrix-Clients: matrix-clients.md
+    - Miro:
+        Allgemeines: miro.md
+theme:
+    name: material
+    language: de
+    palette:
+        primary: green
+        accent: green
+    features:
+      - navigation.tabs
+      - toc.autohide
