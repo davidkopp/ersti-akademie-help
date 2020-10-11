@@ -1,5 +1,6 @@
 site_name: Erstsemesterakademie BaWü zukunftsfähig - Digitale Umsetzung
 site_url: https://help.ersti-akademie-bw.de
+repo_url: https://github.com/davidkopp/ersti-akademie-help
 nav:
     - Start: index.md
     - BigBlueButton:
