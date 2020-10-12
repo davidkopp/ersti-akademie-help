@@ -1,5 +1,8 @@
 Unsere Community und Räume
-================
+==========================
+
+!!! hint "Unser Matrix-Server"
+    Der Link zu unserem Matrix-Server lautet: <a href="https://chat.studichat.de/" target="_blank">chat.studichat.de</a>
 
 ## Konzept
 

@@ -1,7 +1,10 @@
 Benutzungsoberfläche
 ====================
 
-Im folgenden ist ein Screenshot zu sehen, der die BBB-Oberfläche mit Präsentationsrechten zeigt:
+!!! abstract ""
+    Auf dieser Seite werden die Funktionalitäten von BigBlueButton anhand der Oberfläche aus Sicht einer Person mit Präsentationsrechten erklärt. 
+
+**BBB-Oberfläche:**
 <figure>
   <img src="../img/bbb-oberflaeche.png" alt="BBB-Oberfläche" />
 </figure>

@@ -24,3 +24,8 @@ theme:
     features:
       - navigation.tabs
       - toc.autohide
+markdown_extensions:
+    - admonition
+    - pymdownx.critic
+    - pymdownx.betterem:
+        smart_enable: all

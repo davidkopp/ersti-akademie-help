@@ -1,6 +1,9 @@
 Allgemeines zu Matrix
 =====================
 
+!!! hint "Unser Matrix-Server"
+    Der Link zu unserem Matrix-Server lautet: <a href="https://chat.studichat.de/" target="_blank">chat.studichat.de</a>
+
 **Was ist Matrix?**
 
 Matrix ist ein Protokoll für sichere dezentrale Kommunikation. Der bekannteste Matrix-Server ist [matrix.org](https://matrix.org), aber jede\*r kann seinen\*ihren eigenen Server hosten. stuvus, die Studierendenvertretung der Uni Stuttgart, tut das.

@@ -1,3 +1,6 @@
+!!! hint "Unser Matrix-Server"
+    Der Link zu unserem Matrix-Server lautet: <a href="https://chat.studichat.de/" target="_blank">chat.studichat.de</a>
+
 ## Registrierung
 
 1. Rufe den selbstgehosteten *Element*-Client unter [chat.studichat.de](https://chat.studichat.de/#/group/+ersti-akademie:studichat.de) auf.
