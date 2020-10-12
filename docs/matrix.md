@@ -12,7 +12,7 @@ Matrix ist ein Protokoll für sichere dezentrale Kommunikation. Der bekannteste 
 
 -   Es ist unabhängig von Datenkraken wie WhatsApp und Telegram.
 
--   Es ist vollständig Open Sourced.
+-   Es ist vollständig Open Source.
 
 -   Es wird von uns (IT der Studierendenvertretung der Universität Stuttgart) selbst gehostet, d.&#x00A0;h. alle Daten liegen auf eigenen Servern.
 
