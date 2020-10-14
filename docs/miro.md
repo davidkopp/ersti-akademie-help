@@ -1,4 +1,0 @@
-Allgemeines zu Miro
-===================
-
-tbd

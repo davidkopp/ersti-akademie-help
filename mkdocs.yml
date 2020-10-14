@@ -13,8 +13,6 @@ nav:
         Wichtige Einstellungen: matrix-einstellungen.md
         Unsere Community und Räume: matrix-community.md
         Matrix-Clients: matrix-clients.md
-    - Miro:
-        Allgemeines: miro.md
 theme:
     name: material
     language: de
