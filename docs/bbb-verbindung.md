@@ -25,7 +25,7 @@ Verbindungsaufbau zur Konferenz
             <figcaption>Firefox<figcaption>
           </figure>
           <figure>
-            <img src="../img/bbb-mikrofon-chrome.png" alt="Firefox" width="300"/>
+            <img src="../img/bbb-mikrofon-chrome.png" alt="Chrome" width="300"/>
             <figcaption>Chrome<figcaption>
           </figure>
         </div>

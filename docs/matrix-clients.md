@@ -26,10 +26,19 @@ Matrix-Clients (Android, iOS, Windows, etc.)
 
     1.  App vom Google Play Store, F-Droid bzw. vom App Store herunterladen
 
-    2.  Gehe auf "Andere"
+    2.  Klicke auf "Einloggen mit Matrix-ID"
 
-    3.  Gebe "[matrix.studichat.de](https://matrix.studichat.de)" ein und gehe auf "Fortfahren".
+    3.  Gebe deine Matrix-ID (Schema `@benutzername:studichat.de`) und dein Passwort ein.
+    
+    4.  Klick auf "Anmelden".
 
-    4.  Gehe auf "Anmelden".
-
-    5.  Log dich mit deinem Benutzernamen und Passwort ein.
+    <div style="display: flex;">
+        <figure>
+        <img src="../img/matrix-android-anmeldung-01.jpg" alt="Matrix Anmeldung Schritt 1" width="300" />
+        </figure>
+        <figure>
+        <img src="../img/matrix-android-anmeldung-02.jpg" alt="Matrix Anmeldung Schritt 2" width="300" />
+        </figure>
+    </div>
+        
+    *Hinweis: Falls die Möglichkeit zur Anmeldung über die Matrix-ID nicht existiert, kannst du bei dem Screen "Wähle einen Server" die Option "Andere" auswählen und dort als Homeserver `https://matrix.studichat.de` angeben.*

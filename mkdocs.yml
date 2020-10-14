@@ -12,7 +12,7 @@ nav:
         Registrierung & Anmeldung: matrix-registrierung.md
         Wichtige Einstellungen: matrix-einstellungen.md
         Unsere Community und Räume: matrix-community.md
-        Matrix-Clients: matrix-clients.md
+        Matrix-Clients (Android, iOS, Windows, etc.): matrix-clients.md
 theme:
     name: material
     language: de
