@@ -25,3 +25,11 @@ Anmelden: <https://chat.studichat.de/#/login>
 Du solltest nun von einem Willkommensbildschirm begrüßt werden:
 
 <img src="../img/matrix-willkommen-studichat.png" alt="Matrix Willkommen zu Studichat" width="500" />
+
+## Verifikation
+
+!!! warning ""
+    Falls folgende Meldung zur Verifikation der Sitzung erscheint, solltest du die Verifikation durchführen, in dem du bei deiner anderen Sitzung bestätigst, dass du dich auf einem anderen Gerät bzw. in einer anderen Sitzung anmelden möchtest. Falls du bislang nur ein Gerät verwendest, eine Verifikation also nicht möglich ist, kannst du diese überspringen (evtl. verlierst du dadurch Zugriff auf ältere Nachrichten in verschlüsselten Chats).
+    Siehe auch [Sicherheit & Datenschutz in den Matrix Einstellungen](matrix-einstellungen.md#sicherheit-datenschutz), dort kannst du einen Sicherungsschlüssel anlegen, damit du auf mehreren Geräten Ende-zu-Ende verschlüsselte Chaträume öffnen kannst. 
+
+<img src="../img/matrix-verifikation.jpg" alt="Matrix Verifikation" width="500" />
