@@ -65,9 +65,10 @@ Benutzungsoberfläche
 
 ### E: Optionen
 
--   **Vollbild:** Ausblenden der Browser-Schaltflächen und Wechsel der eigenen BBB-Umgebung in den Vollbildmodus.
+- **Vollbild:** Ausblenden der Browser-Schaltflächen und Wechsel der eigenen BBB-Umgebung in den Vollbildmodus.
 
--   **Einstellungen:** Hier können weitere Einstellungen für eigene BBB-Umgebung vorgenommen werden. Besonders hervorzuheben sind die hier die Einstellungen zur Datenvolumeneinsparung im Falle von Problemen mit der Audio- oder Videoverbindung.
+- **Einstellungen:** Hier können weitere Einstellungen für eigene BBB-Umgebung vorgenommen werden. Besonders hervorzuheben sind hier die Einstellungen zur Datenvolumeneinsparung im Falle von Problemen mit der Audio- oder Videoverbindung. Vor allem als Präsentator\*in könnte es relevant sein die Einstellung zu aktivieren, dass du bei neuen Nachrichten im Chat oder beim Beitritt weiterer Teilnehmer\*innen ein Audiosignal erhälst.
+
 
 ### F: Aufzeichnung der Veranstaltung
 

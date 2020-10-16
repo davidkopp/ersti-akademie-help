@@ -9,7 +9,7 @@ Verbindungsaufbau zur Konferenz
 
     2.  Konvention zum *Datenschutz*: Falls du nicht möchtest, dass Aufnahmen bzw. Screenshots veröffentlicht werden, bei denen du mit deinem Bild oder deinem Namen zu sehen sind, schreibe ein **x** vor deinen Namen (z.&#x00A0;B. "x Lieschen Müller").
 
-    3.  *Personalpronomen*: Gebe gerne dein gewünschtes Pronomen an (er / sie), damit die anderen wissen, wie du gerne angesprochen werden möchtest (z.&#x00A0;B. "Lieschen Müller (sie)").
+    3.  *Personalpronomen*: Gebe gerne dein Pronomen an (er / sie / egal), damit die anderen wissen, wie du gerne angesprochen werden möchtest (z.&#x00A0;B. "Lieschen Müller (sie)").
 
 3.  **Betreten des Konferenzraums**
     Du wirst nun automatisch in den Konferenzraum weitergeleitet. Falls die Konferenz noch nicht gestartet wurde, wird ein entsprechender Hinweis angezeigt. Sobald die Konferenz dann gestartet wurde, wirst du automatisch in den Konferenzraum weitergeleitet.
@@ -30,7 +30,7 @@ Verbindungsaufbau zur Konferenz
           </figure>
         </div>
 
-    6.  **Echotest: **Nach der Freigabe deines Mikrofons wird ein Echotest angeboten, der der Funktionsprüfung Ihrer Audio-Hardware dient. Stelle hierbei sicher, dass du dich selbst (mit leichtem Zeitversatz) hören kannst, aber keine [Rückkopplung](https://de.wikipedia.org/wiki/R%C3%BCckkopplung#Tontechnik) entsteht.
+    6.  **Echotest:** Nach der Freigabe deines Mikrofons wird ein Echotest angeboten, der der Funktionsprüfung Ihrer Audio-Hardware dient. Stelle hierbei sicher, dass du dich selbst (mit leichtem Zeitversatz) hören kannst, aber keine [Rückkopplung](https://de.wikipedia.org/wiki/R%C3%BCckkopplung#Tontechnik) entsteht.
 
 5.  **Webcam freigeben**
     Um deine Webcam freizugeben, klicke in der unteren Leiste auf das Symbol mit durchgestrichener Kamera. Ggf. wirst du vor der Aktivierung aufgefordert der Verwendung der Webcam durch den Browser zuzustimmen (äquivalent zur Zurstimmung des Mikrofons).
