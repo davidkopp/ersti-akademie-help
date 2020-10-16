@@ -26,6 +26,8 @@ Du solltest nun von einem Willkommensbildschirm begrüßt werden:
 
 <img src="../img/matrix-willkommen-studichat.png" alt="Matrix Willkommen zu Studichat" width="500" />
 
+Bevor du mit Chatten loslegst, solltest du unbedingt ein paar [wichtige Einstellungen](matrix-einstellungen.md) vornehmen, die auf der nächsten Seite erklärt sind.
+
 ## Verifikation
 
 !!! warning ""

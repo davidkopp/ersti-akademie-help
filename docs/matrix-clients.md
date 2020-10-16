@@ -20,6 +20,13 @@ Matrix-Clients (Android, iOS, Windows, etc.)
 
     **Web:** [chat.studichat.de](https://chat.studichat.de/)
 
+## Einrichtung von Element als Applikation
+
+Wenn du Element nicht nur im Browser nutzen magst, kannst du sehr gerne die entsprechende Applikation für Windows, macOS oder Linux herunterladen und installieren.
+Bevor du dich anmelden kannst, musst du zunächst den Server auf die URL `https://matrix.studichat.de` abändern:
+
+<img src="../img/matrix-anmelden-anderer-server.png" alt="Matrix anderer Server auswählen" width="500" />
+
 ## Einrichtung auf Android und iOS
 
 !!! success ""
