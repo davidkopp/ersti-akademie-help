@@ -22,7 +22,7 @@ Benutzungsoberfläche
 
 -   **Öffentlicher Chat:** Nachrichten, die du hier versendest, können von allen Konferenzteilnehmer\*innen gelesen werden.
 
--   **Geteilte Notizen:** An dieser Stelle können Texte gemeinsam mit anderen Teilnehmer\*innen verfasst werden. Die geteilten Notizen werden beim Beenden der Konferenz [nicht]{.underline} automatisch gespeichert und müssen deshalb ggf. vorher manuell exportiert werden:
+-   **Geteilte Notizen:** An dieser Stelle können Texte gemeinsam mit anderen Teilnehmer\*innen verfasst werden. Die geteilten Notizen werden beim Beenden der Konferenz <ins>nicht</ins> automatisch gespeichert und müssen deshalb ggf. vorher manuell exportiert werden:
     <img align="left" src="../img/bbb-notizen.png" alt="BBB Notizen" width="400" />
     <div style="clear:both"></div>
 
