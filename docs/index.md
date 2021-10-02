@@ -19,8 +19,6 @@ Die zwei wichtigsten Tools sind:
 
 * [BigBlueButton](bbb.md) (Videokonferenzen)
 
-* [Matrix](matrix.md) (Chat-Plattform)
-
 ---
 
 !!! help "Fragen"

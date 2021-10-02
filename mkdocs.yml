@@ -7,12 +7,6 @@ nav:
         Allgemeines: bbb.md
         Verbindungsaufbau zur Konferenz: bbb-verbindung.md
         Benutzungsoberfläche: bbb-benutzung.md
-    - Matrix:
-        Allgemeines: matrix.md
-        Registrierung & Anmeldung: matrix-registrierung.md
-        Wichtige Einstellungen: matrix-einstellungen.md
-        Unsere Community und Räume: matrix-community.md
-        Matrix-Clients (Android, iOS, Windows, etc.): matrix-clients.md
 theme:
     name: material
     language: de
