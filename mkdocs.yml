@@ -1,23 +1,44 @@
-site_name: Erstsemesterakademie BaWü zukunftsfähig - Digitale Umsetzung
+site_name: Erstsemesterakademie BaWü zukunftsfähig - Hilfeseite
 site_url: https://help.ersti-akademie-bw.de
 repo_url: https://github.com/davidkopp/ersti-akademie-help
+site_description: 'Hilfeseite für die Erstsemesterakademie BaWü zukunftsfähig'
+site_author: 'David Kopp'
+
 nav:
-    - Start: index.md
-    - BigBlueButton:
-        Allgemeines: bbb.md
-        Verbindungsaufbau zur Konferenz: bbb-verbindung.md
-        Benutzungsoberfläche: bbb-benutzung.md
+  - 🏠: index.md
+  - zukunftsfaehig.md
+  - bbb.md
+  - support.md
+
 theme:
     name: material
+    favicon: assets/help-black.svg
+    logo: assets/help-white.svg
     language: de
     palette:
         primary: green
         accent: green
     features:
       - navigation.tabs
-      - toc.autohide
+      - navigation.sections
+      - navigation.expand
+      - navigation.top
+      - toc.integrate
+
 markdown_extensions:
+    - toc
     - admonition
     - pymdownx.critic
     - pymdownx.betterem:
         smart_enable: all
+    - attr_list
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+
+plugins:
+  - search
+  - git-revision-date-localized:
+      type: date
+
+copyright: <a href="https://www.ersti-akademie-bw/" target="_blank">Erstsemesterakademie BaWü zukunftsfähig</a>
